@@ -26,6 +26,6 @@ for a, b in user.items():
 key_weight = user.pop("weight", "Cannot delete because key not found")
 print(key_weight)
 
-user_new_elements = {"city": "Kyiv", "height": 185, "weight": 85}
-user_update = user.update(user_new_elements)
+user_new_elements = {"city": "Kyiv", "height": 185, "weight": 85} # створюємо словник
+user_update = user.update(user_new_elements) # розширюємо наш словник
 print(user)
