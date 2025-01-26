@@ -5,7 +5,7 @@
 # https://fastapi.tiangolo.com/tutorial/first-steps/
 
 # Запуск сервера
-# ...\genius-python-lessons\lesson_2_02> fastapi dev lesson_2_02_05.py - команда для запуску сервера
+# ...\lesson_2_02> fastapi dev lesson_2_02_05.py - команда для запуску сервера
 
 # Query Parameters
 # https://fastapi.tiangolo.com/tutorial/query-params/
